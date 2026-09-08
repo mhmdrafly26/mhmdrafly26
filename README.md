@@ -9,25 +9,21 @@
 <h3 align="center">Connect With Me</h3>
 
 <p align="center">
-  <a href="https://github.com/pangeran-droid">
+  <a href="https://github.com/mhmdrafly26">
     <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
-  <a href="https://t.me/pangeran1337">
+  <a href="https://t.me/geraldwhteverr">
     <img src="https://img.shields.io/badge/Telegram-000000?style=for-the-badge&logo=telegram&logoColor=26A5E4" alt="Telegram"/>
   </a>
-  <a href="mailto:ranject6@gmail.com">
+  <a href="mailto:mhmdrfly66@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="Gmail"/>
   </a>
-  <a href="#">
-    <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=0A66C2" alt="LinkedIn"/>
-  </a>
-  <a href="#">
+    <a href="https://www.instagram.com/mhmdrflydaf">
     <img src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=E4405F" alt="Instagram"/>
-  </a>
-  <a href="https://discord.gg/7rvj3xkZ">
-    <img src="https://img.shields.io/badge/Discord-000000?style=for-the-badge&logo=discord&logoColor=5865F2" alt="Discord"/>
-  </a>
 </p>
+  <a href="#">
+    <img src="" alt="PORTOFOLIO"/>
+  </a>
 
 <br>
 
