@@ -20,10 +20,11 @@
   </a>
     <a href="https://www.instagram.com/mhmdrflydaf">
     <img src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=E4405F" alt="Instagram"/>
-</p>
   <a href="#">
     <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?&style=for-the-badge&logo=firefox&logoColor=white" alt="porto"/>
   </a>
+    </a>
+</p>
 
 <br>
 
